@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+}
+body {
+  text-align: center;
+  /* padding-top: 50px; */
+}
+.top {
+  background: #eaf6f6;
+}
+h1 {
+  font-family: " sacramento", cursive;
+  font-size: 70px;
+  color: #66bfbf;
+}
+h2 {
+  font-size: 1.5em;
+  color: #66bfbf;
+}
+.btn {
+  background: #66bfbf;
+  text-decoration: none;
+  color: white;
+  border-radius: 8px;
+  padding: 10px;
+}
+.btn:hover {
+  color: gray;
+}
+h3 {
+  color: #11999e;
+}
+.footer-link {
+  margin: 0px 30px 0px 30px;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  width: 6%;
+  border-color: grey;
+  margin: 100px auto;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.first {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.second {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.profile p {
+  width: 30%;
+  margin: 20px auto;
+}
+.top-one {
+  position: relative;
+  top: 0px;
+  left: 250px;
+}
+.top-two {
+  position: absolute;
+}
+.bottom-container {
+  padding: 50px 0px 20px;
+  background: #66bfbf;
+  /* margin: 100px auto 0px; */
+}
+.middle-container {
+  margin: 100px auto;
+}
+p {
+  line-height: 2;
+}
+.contact-me p {
+  width: 30%;
+  margin: 20px auto;
+}
+.contact-me h3 {
+  margin: 20px auto;
+}
+.bottom-container p {
+  margin: 30px auto;
+}
+a:hover {
+  color: white;
+}
